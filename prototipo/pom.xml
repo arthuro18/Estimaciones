@@ -57,6 +57,11 @@
   		<groupId>org.springframework</groupId>
   		<artifactId>spring-tx</artifactId>
   		<version>4.2.0.RELEASE</version>
-  	</dependency>
+  	</dependency>	
+<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-entitymanager</artifactId>
+	<version>3.6.8.Final</version>
+</dependency>
   </dependencies>
 </project>
